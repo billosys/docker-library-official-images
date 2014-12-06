@@ -1,0 +1,4 @@
+# maintainer: LFE Maintainers <maintainers@lfe.io> (@lfe)
+
+latest: git://github.com/lfe/lfe@0.9.0
+0.9.0: git://github.com/lfe/lfe@0.9.0
